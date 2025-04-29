@@ -1,0 +1,1 @@
+"C:\Users\ruchi\OneDrive\Desktop\Face Recognition System\images\igdtuw1.jpeg"
