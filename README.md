@@ -2,7 +2,7 @@
 
 A Python-based desktop application that automates recording student attendance using face recognition. Built with Tkinter for the GUI, OpenCV for face detection/recognition, and MySQL for data storage.
 
-![Screenshot](screenshots/dashboard.png)
+![Screenshot](https://github.com/ruchikapatro24/Attendance-Management-System/blob/5712442ee3e6a0b147b2db2ffe430b7c8958eea4/ss.jpg)
 
 ---
 
