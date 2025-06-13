@@ -365,7 +365,7 @@ class Student:
     
     #=========fetch data==========
     def fetch_data(self):
-        conn=mysql.connector.connect(host="localhost",username="root",password="Ruch@2412",database="attendance_management")
+        conn=mysql.connector.connect(host="localhost",username="root",password="your_pwd",database="attendance_management") #write your sql pwd here in place of "your_pwd"
         my_cursor=conn.cursor()
         my_cursor.execute("select * from student")
         data=my_cursor.fetchall()
